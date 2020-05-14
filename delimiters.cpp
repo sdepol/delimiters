@@ -1,12 +1,12 @@
 /////////////////////////////////////////////////////////////////////////
 //ECE 150 - PROJECT 1
 //
-//File:					delimiters.cpp
-//Author: 				Stephanie De Pol
-//Date:					2019-10-09
+//File:			delimiters.cpp
+//Author: 		Stephanie De Pol
+//Date:			2019-10-09
 //Program Objective: 	Read through a test file and identify where
-//						delimiters are unmatched, missing, and/or not
-//						nested properly.
+//			delimiters are unmatched, missing, and/or not
+//			nested properly.
 ////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
